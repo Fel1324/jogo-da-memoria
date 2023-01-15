@@ -12,7 +12,7 @@
     <img src=".github/preview.png" alt="Interface do jogo da memória do Super Mario">
 </p>
 
-Acesse o projeto [aqui]()
+Acesse o projeto [aqui](https://fel1324.github.io/jogo-da-memoria/)
 
 <br>
 
